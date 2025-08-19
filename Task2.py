@@ -7,4 +7,4 @@ second_name = input()
 full_name = first_name + " " + second_name
 #Displaying the result
 print("Hello", full_name + "! Welcome to the Python program") 
-#print(f"Hello {first_name} {second_name}! Welcome to the Python program")
+print(f"Hello {first_name} {second_name}! Welcome to the Python program")
